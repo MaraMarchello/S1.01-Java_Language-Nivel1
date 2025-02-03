@@ -4,7 +4,7 @@ Sprint1
 
 ## 📄 Descripción 
 
-This project implements a musical instruments class hierarchy in Java, demonstrating object-oriented programming principles such as inheritance and polymorphism. The project includes base classes for musical instruments and specific implementations for different types of instruments, with a focus on percussion instruments.
+Este proyecto implementa una jerarquía de clases de instrumentos musicales en Java, demostrando principios de programación orientada a objetos como la herencia y el polimorfismo. El proyecto incluye clases base para instrumentos musicales e implementaciones específicas para distintos tipos de instrumentos, con especial atención a los instrumentos de percusión.
 
 ## 💻 Tecnologías Utilizadas
 
@@ -20,53 +20,53 @@ This project implements a musical instruments class hierarchy in Java, demonstra
 
 ## 🛠️ Instalación
 
-1. Clone the repository:
+1. Clonar el repositorio:
 ```bash
 git clone https://github.com/MaraMarchello/S1.01-Java_Language-Nivel1
 ```
 
-2. Navigate to the project directory:
+2. Navegar directorio del projecto:
 ```bash
 cd musical_instruments
 ```
 
-3. Ensure you have JDK installed:
+3. Asegúrese de que tiene instalado el JDK:
 ```bash
 java -version
 ```
 
 ## ▶️ Ejecución
 
-1. Compile the Java files:
+1. Compilar los archivos Java:
 ```bash
 javac *.java
 ```
 
-2. Run the main program:
+2. Ejecutar el main:
 ```bash
 java Main
 ```
 
 ## 🌐 Despliegue
 
-This is a Java application that runs locally. For deployment in different environments:
+Se trata de una aplicación Java que se ejecuta localmente. Para su despliegue en diferentes entornos:
 
-1. Ensure the target environment has the required JDK version installed
-2. Package the application into a JAR file if needed
-3. Copy the compiled files or JAR to the target environment
-4. Execute using the instructions in the Execution section
+1. Asegúrese de que el entorno de destino tiene instalada la versión JDK necesaria
+2. Empaquete la aplicación en un archivo JAR si es necesario
+3. Copie los archivos compilados o JAR en el entorno de destino
+4. Ejecutar siguiendo las instrucciones de la sección Ejecución
 
 ## 🤝 Contribuciones
 
-Contributions are welcome! If you'd like to contribute to this project:
+Las contribuciones son bienvenidas. Si quieres contribuir a este proyecto:
 
-1. Fork the repository
-2. Create a new branch for your feature
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+1. Fork el repositorio
+2. Crea una nueva rama para tu función
+3. Confirme sus cambios
+4. Empujar a la rama
+5. Crea una Pull Request
 
-Please ensure your code follows the existing style and includes appropriate comments and documentation.
+Por favor, asegúrese de que su código sigue el estilo existente e incluye los comentarios y la documentación adecuados.
 
 ---
 Last updated: January 23, 2025
